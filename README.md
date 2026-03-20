@@ -14,3 +14,5 @@ To run the jupyter notebooks, one can install the conda environment provided:
 conda env create -f environment_maboss.yml
 
 conda activate maboss_env
+
+The model can also be foun in **BioModels** under the name MODEL2603200001
